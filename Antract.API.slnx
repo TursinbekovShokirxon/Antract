@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/test/">
+    <Project Path="Antract.Domain.UnitTests/Antract.Domain.UnitTests.csproj" />
+  </Folder>
+  <Project Path="Antract.API/Antract.API.csproj" />
+  <Project Path="Antrakt.SharedKernel/Antrakt.SharedKernel.csproj" />
+  <Project Path="Application/Antract.Application.csproj" />
+  <Project Path="Domain/Antract.Domain.csproj" />
+  <Project Path="Infrastructure/Antract.Infrastructure.csproj" />
+</Solution>
